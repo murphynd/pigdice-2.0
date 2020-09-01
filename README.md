@@ -1,8 +1,8 @@
-# _{Application Name}_
+# _Template TITLE_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _A Template CURRENT DATE_
 
-#### By _**{List of contributors}**_
+#### By _**Natalie Murphy**_
 
 ## Description
 
@@ -34,4 +34,4 @@ _{Tell me about the languages and tools you used to create this app. Assume that
 
 _{Determine the license under which this application can be used. See below for more details on licensing.}_
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2020 **_Natalie Murphy_**
